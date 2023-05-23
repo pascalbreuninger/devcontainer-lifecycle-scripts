@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}

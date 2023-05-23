@@ -1,0 +1,6 @@
+{
+  "name": "Node.js",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:0-20",
+  "forwardPorts": [3000, 5173],
+  "postStartCommand": "nohup .devcontainer/init.sh &"
+}
